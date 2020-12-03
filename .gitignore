@@ -1,0 +1,12 @@
+boot.scr
+arm-trusted-firmware
+bootbin
+device-tree-xlnx
+dtc
+embeddedsw
+fsbl
+image
+linux-xlnx
+pmc
+u-boot-xlnx
+xen

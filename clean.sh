@@ -1,0 +1,12 @@
+rm -f boot.scr
+rm -rf arm-trusted-firmware
+rm -rf bootbin
+rm -rf device-tree-xlnx
+rm -rf dtc
+rm -rf embeddedsw
+rm -rf fsbl
+rm -rf image
+rm -rf linux-xlnx
+rm -rf pmc
+rm -rf u-boot-xlnx
+rm -rf xen
